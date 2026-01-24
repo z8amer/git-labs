@@ -1,1 +1,1 @@
-hotfix applied
+hotflix config for prod
